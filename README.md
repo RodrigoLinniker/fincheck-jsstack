@@ -26,11 +26,11 @@
 
 ### Página de Login
 
-<img src="./frontend/src/assets/Login.jpg" alt="preview" width="400px">
+<img src="./frontend/src/assets/Login.png" alt="preview" width="400px">
 
 ### Página Home
 
-<img src="./frontend/src/assets/Home1.jpg" alt="preview" width="400px">
+<img src="./frontend/src/assets/Home1.png" alt="preview" width="400px">
 
 ## Página Home Filtro
 
