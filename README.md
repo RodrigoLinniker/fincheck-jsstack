@@ -11,7 +11,6 @@
     * Typescript
     * PostgreSQL
     * Prisma
-    * Docker
     * JWT
 
   ### Front-end Web
